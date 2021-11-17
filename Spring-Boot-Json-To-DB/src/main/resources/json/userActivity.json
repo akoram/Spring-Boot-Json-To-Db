@@ -1,0 +1,33 @@
+[ {
+            "basicInfo": {
+               "uniqueFileNo": "1234567uhyt",
+               "actualOrgid": "3",
+               "tRefNo": "Test Tender 1",
+               "tType": "Open Tender",
+               "tFormContract": "Works",
+               "tNoOfCovers": "2",
+               "tTenderCategory": "Works",
+               "tNoOfBidOpeners": "2 Off 2",
+               "tAllowAutomaticEvaluation": "false",
+               "tAllowMultiCurrencyForBoq": "false",
+               "creatorName": "Wils",
+               "creatorReference": "WilsDG"
+            },
+            "multiCurrencyForBoq": "",
+            "boqinfo": "",
+            "coverinfo": {
+               "cover": [
+                  {
+                     "tCoverNo": "1",
+                     "tDocDesc": "Scanned Fee Details",
+                     "tDocType": ".pdf"
+                  },
+                   {
+                     "tCoverNo": "1",
+                     "tDocDesc": "Scanned Fee Details",
+                     "tDocType": ".pdf"
+                  }
+               ]
+            }
+            }
+      ]
